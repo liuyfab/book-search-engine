@@ -7,7 +7,7 @@ This project is an app that uses the MERN stack and GraphQL, also utilizes the G
 # Heroku Deployment link
 https://rocky-escarpment-51233.herokuapp.com/
 
-![Landing Page](https://github.com/liuyfab/budget-tracker/blob/main/assets/Screenshot.png?raw=true)
+![Landing Page](https://github.com/liuyfab/book-search-engine/blob/main/Screenshot.png?raw=true)
 
 # Table of Contents
 * [Heroku Link](#Heroku Deployment link)
